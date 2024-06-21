@@ -1,1 +1,2 @@
-RESTFul cервис - хранилище файлов.
+# RESTFul cервис - хранилище файлов.
+Операции list, upload, delete.
